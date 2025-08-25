@@ -33,7 +33,7 @@ Here is a glimpse of the interactive dashboard. For the full experience, please 
 
 
 ![Dashboard Preview](https://github.com/Kunwardivassingh/Supermarket-_sales_forecasting_data_analysis/blob/main/supermarket_sales_forecasting%20p2.png)
-![Dashboard Preview](https://github.com/Kunwardivassingh/Supermarket-_sales_forecasting_data_analysis/blob/main/supermarket_sales_forecasting%20p2.png)
+![Dashboard Preview](https://github.com/Kunwardivassingh/Supermarket-_sales_forecasting_data_analysis/blob/main/supermarket_sales_forecasting%20p1.png)
 
 
 ### **➡️ [Click Here to View the Live Interactive Dashboard](https://ENTER_YOUR_POWERBI_PUBLISH_LINK_HERE)**
