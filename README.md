@@ -31,8 +31,10 @@ The primary goal of this project is to analyze historical sales data from a supe
 
 Here is a glimpse of the interactive dashboard. For the full experience, please use the link below.
 
-*(Suggestion: Replace the line below with a screenshot of your dashboard!)*
+
 ![Dashboard Preview](https://github.com/Kunwardivassingh/Supermarket-_sales_forecasting_data_analysis/blob/main/supermarket_sales_forecasting%20p2.png)
+![Dashboard Preview](https://github.com/Kunwardivassingh/Supermarket-_sales_forecasting_data_analysis/blob/main/supermarket_sales_forecasting%20p2.png)
+
 
 ### **➡️ [Click Here to View the Live Interactive Dashboard](https://ENTER_YOUR_POWERBI_PUBLISH_LINK_HERE)**
 
